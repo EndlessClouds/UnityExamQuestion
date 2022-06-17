@@ -1,6 +1,5 @@
 # UnityExamQuestion
 
-A)Unity Exam Question
 Please clone the git repository and use the ready made assets in the project to create a scene where you can control the character to battle with a placeholder enemy object.
 
 Git Repository : https://github.com/EndlessClouds/UnityExamQuestion.git
